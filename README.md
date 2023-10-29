@@ -39,7 +39,7 @@ The Housing Community Management System includes three modules:
 
 To use the Housing Community Management System:
 
-1. Clone this repository to your local machine: git clone 
+1. Clone this repository to your local machine: git clone https://github.com/homelander2507/Housing_Community
    
 2. Explore the project files, including code and documentation, to understand the system's structure and functionality.
 
